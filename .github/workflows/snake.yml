@@ -1,0 +1,55 @@
+name: Generate Snake Game
+
+on:
+  
+ 
+schedule:
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+  
+ 
+workflow_dispatch:
+
+jobs:
+  
+ 
+build:
+    
+   
+runs-on: ubuntu-latest
+    
+   
+steps:
+      # Baixa o repositório
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      
+
+ 
+# Configura o Snake Game
+      
+     
+- name: Generate Snake Game
+        uses: Platane/snk@v2
+        with:
+          # caminho do arquivo de saída gerado
+          
+         
+output: dist/github-contribution-grid-snake.svg
+
+      
+
+# Faz o upload do Snake Game para o GitHub
+      - name: Upload Snake Game
+        
+       
+uses: actions/upload-artifact@v2
+        
+       
+with:
+          
+         
+name: snake-game
+          
+         
+path: dist/github-contribution-grid-snake.svg
