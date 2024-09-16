@@ -1,55 +1,26 @@
-name: Generate Snake Game
+name: Generate Datas
 
 on:
-  
- 
-schedule:
-    - cron: "0 0 * * *" # Executa diariamente à meia-noite
-  
- 
-workflow_dispatch:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
 
 jobs:
-  
- 
-build:
-    
-   
-runs-on: ubuntu-latest
-    
-   
-steps:
-      # Baixa o repositório
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      
-
- 
-# Configura o Snake Game
-      
-     
-- name: Generate Snake Game
-        uses: Platane/snk@v2
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
-          # caminho do arquivo de saída gerado
-          
-         
-output: dist/github-contribution-grid-snake.svg
+          github_user_name: luisaleiria
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      
-
-# Faz o upload do Snake Game para o GitHub
-      - name: Upload Snake Game
-        
-       
-uses: actions/upload-artifact@v2
-        
-       
-with:
-          
-         
-name: snake-game
-          
-         
-path: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
