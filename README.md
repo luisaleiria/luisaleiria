@@ -1,7 +1,7 @@
 ## Oii! eu sou Luisa Leiria 👋
 
 - Sou estudante de Engenharia da Computação no CIn-UFPE
-- Apesar de fazer engenharia atualmente estou me aprofundando mais na área de programação Front-end e dados
+- Apesar de fazer engenharia atualmente estou me aprofundando mais na área de programação Front-End e dados
 
 ##
 ![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisaleiria&show_icons=true&theme=radical)
