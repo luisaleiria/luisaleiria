@@ -3,9 +3,12 @@
 - Sou estudante de Engenharia da Computação no CIn-UFPE
 - Apesar de fazer engenharia atualmente estou me aprofundando mais na área de programação Front-End e dados
 
-##
-![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisaleiria&show_icons=true&theme=radical)
+#
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisaleiria&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaleiria&show_icons=true&theme=radical&count_private=true&layout=compact&card_width=320" height="180em" />
+</div>
 
 <div style="display: inline_block"><br>
   <h2>Linguagens que mais uso 👩🏻‍💻</h2>
@@ -17,7 +20,6 @@
   <img align="center" alt="Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg">
   <img align="center" alt="AzureSQLDatabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
 </div>
-
 
 ## Onde me encontrar 📲
 
