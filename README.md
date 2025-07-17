@@ -1,10 +1,13 @@
-## Oii! eu sou Luisa Leiria 👋
+## Oii! eu sou Luisa Leiria 💗
 
 - Sou apaixonada por tecnologia, principalmente nas áreas de desenvolvimento Front-End e análise de dados. Atualmente estou no 7º período de Engenharia da Computação no CIn/UFPE e venho desenvolvendo projetos que combinam criatividade, usabilidade e código limpo. Gosto de transformar ideias em interfaces funcionais e intuitivas!
 - Além da programação, venho me aprofundando em práticas de UX/UI Design, buscando sempre criar experiências digitais mais intuitivas, acessíveis e agradáveis para os usuários. Gosto de transformar ideias em interfaces funcionais e impactantes!
 
+---
 
-#
+![snake gif](https://raw.githubusercontent.com/luisaleiria/luisaleiria/output/github-contribution-grid-snake.svg)
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisaleiria&show_icons=true&theme=radical" height="180em" />
@@ -47,10 +50,6 @@
   <a href="https://www.linkedin.com/in/luisa-leiria-a71a1424a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![snake gif](https://raw.githubusercontent.com/luisaleiria/luisaleiria/output/github-contribution-grid-snake.svg)
-
-
 
 
 
