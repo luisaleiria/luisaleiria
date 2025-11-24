@@ -1,6 +1,6 @@
 ## Oii! eu sou Luisa Leiria 💗
 
-- Sou apaixonada por tecnologia, principalmente nas áreas de desenvolvimento Front-End e análise de dados. Atualmente estou no 7º período de Engenharia da Computação no CIn/UFPE e venho desenvolvendo projetos que combinam criatividade, usabilidade e código limpo. Gosto de transformar ideias em interfaces funcionais e intuitivas!
+- Sou apaixonada por tecnologia, principalmente nas áreas de desenvolvimento Front-End e usabilidade. Atualmente estou no 8º período de Engenharia da Computação no CIn/UFPE e venho desenvolvendo projetos que combinam criatividade, usabilidade e código limpo. Gosto de transformar ideias em interfaces funcionais e intuitivas!
 - Além da programação, venho me aprofundando em práticas de UX/UI Design, buscando sempre criar experiências digitais mais intuitivas, acessíveis e agradáveis para os usuários. Gosto de transformar ideias em interfaces funcionais e impactantes!
 
 ---
